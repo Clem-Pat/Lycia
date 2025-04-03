@@ -3,7 +3,7 @@
 The ambitious project to launch a French association dedicated to forming students in AI use.
 
 <picture>
-  <source srcset="./Resources/Lycia_black_cover.png" media="(prefers-color-scheme: dark)">
+  <source srcset="./Resources/Lycia_dark_cover.png" media="(prefers-color-scheme: dark)">
   <source srcset="./Resources/Lycia_beige_cover.png" media="(prefers-color-scheme: light)">
   <img src="./Resources/Lycia_beige_cover.png" alt="Lycia cover">
 </picture>
@@ -26,13 +26,13 @@ Lycia est une association composée d'étudiants en intelligence artificielle, d
 - Travaux pratiques pour sensibiliser à la sécurité (sécurité cyber et sécurité psychologique)
 - Discussions sur l'éthique et les biais en IA.
 
-Vous êtes **professeur des collèges ou lycées** ? Nous pouvons travailler avec vous pour établir un atelier sur mesure. 
+Vous êtes **professeur des collèges ou lycées** ? Nous pouvons travailler avec vous pour établir un atelier sur mesure. En anglais ou en français.
 
 Vous travaillez dans l'IA et voulez transmettre votre savoir aux jeunes ? Rejoignez-nous. 
 
 ### Contact
 
-clement.patrizio@ensta.fr 
+lycia.formation@gmail.com 
 
 
 ### Auteurs
