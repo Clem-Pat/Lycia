@@ -1,6 +1,6 @@
 # Lycia
 
-The ambitious project to launch a French association dedicated to forming students in AI use.
+The ambitious project to launch a French organization dedicated to forming students in AI use.
 
 <picture>
   <source srcset="./Resources/Lycia_dark_cover.png" media="(prefers-color-scheme: dark)">
