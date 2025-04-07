@@ -1,6 +1,7 @@
 # Lycia
 
 The ambitious project to launch a French organization dedicated to forming students in AI use.
+
 Please visit our page : https://lycia-formation.github.io/Lycia/
 
 <picture>
